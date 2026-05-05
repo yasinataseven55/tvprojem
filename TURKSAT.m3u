@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://gbzottvsc17.tvplus.com.tr:33207/CPS/images/universal/film/logo/202510/20251030/58/0915123165535eb88428_op_0_XL.webp" group-title="yasin",TRT 1
-https://umitlenelim.umitm0d.workers.dev/play/umitmod763b2bbf
+https://ataktvm3u.atakan-1983.workers.dev/trt1
 #EXTINF:-1 tvg-id="TRT 2 HD.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" group-title="yasin",TRT 2
 https://ataktvm3u.atakan-1983.workers.dev/trt2
 #EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" group-title="yasin",TRT Haber
