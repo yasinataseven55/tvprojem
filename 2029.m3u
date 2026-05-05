@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" group-title="yasin",TRT 1
+https://ataktvm3u.atakan-1983.workers.dev/trt1
+#EXTINF:-1 tvg-id="TRT 2 HD.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" group-title="yasin",TRT 2
+https://ataktvm3u.atakan-1983.workers.dev/trt2
+#EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" group-title="yasin",TRT Haber
+https://ataktvm3u.atakan-1983.workers.dev/trthaber
+#EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://cdn.technettv.com/channel/33783/logo_256.png" group-title="yasin",Now
+https://ataktvm3u.atakan-1983.workers.dev/now
+#EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="https://cdn.technettv.com/channel/33825/logo_256.png" group-title="yasin",ATV
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28610106416f22e0cc8dbc
+#EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" group-title="yasin",Show TV
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8795889605c7795ac9528
+#EXTINF:-1 tvg-id="STAR TV HD.tr" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" group-title="yasin",Star Tv
+https://ataktvm3u.atakan-1983.workers.dev/startv
+#EXTINF:-1 tvg-id="KANAL D HD.tr" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png" group-title="yasin",Kanal D
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F712040085633ac28facb4
+#EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-logo="https://cdn.technettv.com/channel/29485/logo_256_1733831753.png" group-title="yasin",Kanal 7
+https://ataktvm3u.atakan-1983.workers.dev/kanal7
+#EXTINF:-1 tvg-id="BEYAZ TV HD.tr" tvg-logo="https://cdn.technettv.com/channel/22982/logo_256_1707397409.png" group-title="yasin",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+#EXTINF:-1 tvg-id="KONTV HD.tr" tvg-logo="https://cdn.technettv.com/channel/20546/logo_256_1707397575.png" group-title="yasin",NTV
+https://ataktvm3u.atakan-1983.workers.dev/ntv
+#EXTINF:-1 tvg-id="TV8 HD.tr" tvg-logo="https://cdn.technettv.com/channel/33790/logo_256.png" group-title="yasin",TV8
+https://ataktvm3u.atakan-1983.workers.dev/tv8
+#EXTINF:-1 tvg-id="TV8,5 HD.tr" tvg-logo="https://cdn.technettv.com/channel/33958/logo_256.png" group-title="yasin",5 HD.tr" tvg-logo="https://cdn.technettv.com/channel/33958/logo_256.png" group-title="yasin",TV 8.5
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F19082658164debc10cdc44
+#EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-logo="https://cdn.technettv.com/channel/22961/logo_256_1707397512.png" group-title="yasin",CNN Turk
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28683185347b6a700744ac
+#EXTINF:-1 tvg-id="HABER GLOBAL HD.tr" tvg-logo="https://i.haberglobal.com/storage/files/images/2022/01/11/mikrofon-logo-1-1-QENs.png" group-title="yasin",Haber Global
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11966263871c480a66a299
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A HABER" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="yasin",A Haber
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F159609588253825d67ec56
+#EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/03/Haberturk.com_logo.jpg" group-title="yasin",Haber Turk
+https://stream-extractor.koprulu2.workers.dev/?url=https://m.haberturk.com/canliyayin&ext=m3u8
+#EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="yasin",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+#EXTINF:-1 tvg-id="SÖZCÜ TV.tr" tvg-logo="https://cdn.technettv.com/channel/20805/logo_256_1699966647.png" group-title="yasin",Sözcü Tv
+https://ataktvm3u.atakan-1983.workers.dev/szctv
+#EXTINF:-1 tvg-id="HALK TV.tr" tvg-logo="https://cdn.technettv.com/channel/22975/logo_256_1707397382.png" group-title="yasin",Halk TV
+https://ataktvm3u.atakan-1983.workers.dev/halktv
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="TELE 1" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/tele1_250x150.png" group-title="yasin",Tele 1
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4179661802105c1488514b
+#EXTINF:-1 tvg-id="SİNEMA TV 1001 HD.tr" tvg-logo="https://cdn.technettv.com/channel/22926/logo_256_1707397437.png" group-title="yasin",TV 100
+https://ataktvm3u.atakan-1983.workers.dev/tv100
+#EXTINF:-1 tvg-id="ülketv.tr" tvg-name="ÜLKE TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/ulke_tv_vsd.png" group-title="yasin",Ülke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+#EXTINF:-1 tvg-id="24.tr" tvg-name="24 TV" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="yasin",24 TV
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3828793616b62b9cc5834c
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://cdn.technettv.com/channel/20637/logo_256_1699962172.png" group-title="yasin",TV 360
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTINF:-1 tvg-id="tvnet.tr" tvg-name="TVNET HD" tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="yasin",TV NET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-id="TEVE2 HD.tr" tvg-logo="https://cdn.technettv.com/channel/22968/logo_256_1707397507.png" group-title="yasin",Teve2
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfzAxOJwToKIF44orEOnWwlkK7ASq5zLq1TQ&s" group-title="yasin",TV4
+https://stream-extractor.koprulu2.workers.dev/?url=https://www.parsatv.com/m/name=TV4&ext=m3u8
+#EXTINF:-1 tvg-id="TİVİ 6.tr" tvg-logo="https://cdn.technettv.com/channel/20595/logo_256_1699961085.png" group-title="yasin",Tivi6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 tvg-id="GZT TV.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/86c1a901-3b47-41e6-bf9b-b433ec170fdd.png" group-title="yasin",GZT TV
+https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
+#EXTINF:-1 tvg-id="TRT TÜRK.tr" tvg-logo="https://cdn.technettv.com/channel/29492/logo_256_1733831875.jpg" group-title="yasin",TRT Türk
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F409809325606dced407ba1
+#EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" group-title="yasin",DMAX
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1595495667292319e147ce
+#EXTINF:-1 tvg-id="TGRT.Belgesel.tr" tvg-name="TGRT BELGESEL" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" group-title="yasin",TGRT Belgesel
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2753787815ca92c106e311
+#EXTINF:-1 tvg-id="TRT BELGESEL HD.tr" tvg-logo="https://cdn.technettv.com/channel/20609/logo_256_1699961655.png" group-title="yasin",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="yasin",TLC
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F17668406603d2e9e4942ac
+#EXTINF:-1 tvg-id="Da Vinci.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/da-vinci-tv-logo_8CEE3775-9459-4A25-9565-595C7ACA46B2.png" group-title="yasin",Da Vinci
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1268465409d81cf808f3af
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/discovery-channel-hd.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",Discovery Channel
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3079995901347079e2f045
+#EXTINF:-1 tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/id_hd_logo_FF353ABD-9636-4934-8068-395295A7972F.png" group-title="yasin",Discovery ID
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F9700986623c97a7651f69
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png" group-title="yasin",Nat Geo
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC WILD HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/4cc38817-6eb0-4f26-ac2b-cb5baa3b68ba.png" group-title="yasin",Nat Geo Wild
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/cgtn-hd.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",CGTN Belgesel
+https://streams.uzunmuhalefet.com/stream/2bd10121-51a7-4de7-9aaa-8b0db19bdd3b.m3u8
+#EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" tvg-logo="https://tvlogolar.xyz/europa/turkey/bbcearth.png" group-title="yasin",BBC Earth
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22284968562a623d1b95b4
+#EXTINF:-1 tvg-id="TARIH TV.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/tarihtv.png" group-title="yasin",Tarih TV
+https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
+#EXTINF:-1 tvg-id="LIFETV.tr" tvg-logo="https://cdn.technettv.com/channel/19412/logo_256_1699950927.png" group-title="yasin",LIFE TV
+https://ataktvm3u.atakan-1983.workers.dev/lifetv
+#EXTINF:-1 tvg-id="LOVE NATURE HD.tr" tvg-name="lovenature" tvg-logo="https://yandex-images.clstorage.net/5pbQp6130/9d578cbRd42/FSG66xdnfCWb5IA0JY6aoPBf5JH4LWTQt5azZYBRY-T9Mm9r-4UQoSb5-VT3YxBFsgroAkcwsH2jB8FknUNKJwFlqfqH4KkxSqJVNiVP2ienDyDW7qxzlicBpeDXkrRxKP0gd3JYCj-qMqRIqeQFBvJer4QS8mVvcxdY_9iWmneZKbThF7B-Zpa2APriBRbs5xau0G-sPZq_QGyggpliJHn4rTawVgT843OhQakrSYn2lWqRGXnr-fuYU_QMVtaz1eKzYlg2vGUaP4S4Y0Ud6GnWKFpjb_ZXN4Ei7AxVIKl5siG0sZLPva45JkmiLgbEud8iU1Q3rHBwF5t2Ct9aOl2qO-fX_bbi2TaKsiKMnq3n2u9VKaaxWjODp-DC2KkkvPhtuXFVjP6j8CyOquiFzzcUapPWfCsw9NtesgLeVL8bbr7ulrb7LxY3jvrrj9NvIV1mGCnsMpM3CS1tix3qoTUwK3axWQm3rTmsw-_mTEFwFqySE3gjf_3aHjVJ15b7Xan-5BG-uWcat8h05AXR7W4ebFjoKr0ac0Rj6czSKWN1uKU8MpFAeu0zr44naEYFvl1kV9lyZzD9llV7wlVaNZtv_qPStHat0z3Dd6KL2i1qlO5WriOxl3xNZOHC0aurfHKqMniSjn9kfW0LL2kPS_ifJ5Ze_eJ3dJsSvQobF7MXrrwi1T61rRZ3Q_ZlDFag6l-jXSCquhk2wmRozNSq57Z_LHw-kgz34rtrCGsjTk_-lW2UnvrruTxS3LmAUtMyk-0yJJ-_eufes01wqg2SY-baKNXnLLdYOoLios0bJm95Nuv0c1pP_Sy4pUavK0HPeRco2tK6b3q_1lTyBRge_1TlMayS_TZgEv6GtOWOWOoulucYKi4413_MrWCB0Cbovb-suzZeBPQn8a4O5uqOBDoVoRPQui_3fx5WvUbfF_-d7DwmUL77rVz8SrCtQlukYdep0aDluV-8RaMtA8" group-title="yasin",Love Nature
+https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
+#EXTINF:-1 tvg-id="VIASAT HISTORY HD.tr" tvg-name="Viasathistory" tvg-logo="https://avatars.mds.yandex.net/i?id=b4edf6ed0cf240e5ff111efc7bd5e4f94ae97e4a-5243845-images-thumbs&n=13" group-title="yasin",Viasathistory
+https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/bein-iz-hd.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",Bein İZ
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3847791361fc30e8aeff33
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/bein-gurme-hd.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",Bein Gurme
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F361703541447c2d8cea904
+#EXTINF:-1 tvg-name="Fashion One TV" tvg-logo="https://i.ibb.co/HV0x9JZ/fashion-one.png" group-title="yasin",Fashion One TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:-1 tvg-id="KoyTV.tr" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/14624/thumb_Ko%CC%88y_Tv.jpeg" group-title="yasin",Köy TV
+https://ataktvm3u.atakan-1983.workers.dev/koytv
+#EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Ciftci_TV.png" group-title="yasin",Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/yaban-tv.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",Yaban TV
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F178850393550c13d869fbf
+#EXTINF:-1 tvg-id="BLOOMBERG HT HD.tr" tvg-logo="https://cdn.technettv.com/channel/20322/logo_256_1699957451.png" group-title="yasin",Bloomberg HT
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F236989031b5bce3e87ca9
+#EXTINF:-1 tvg-id="diyanettv.tr" tvg-name="DİYANET TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/trt_diyanet_enZ.png" group-title="yasin",Diyanet TV
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2131958841c54888546e7f
+#EXTINF:-1 tvg-id="MELTEM TV.tr" tvg-name="Meltem TV" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/meltem.png" group-title="yasin",Meltem Tv
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F36288465850c4461a9fd50
+#EXTINF:-1 tvg-id="A2 HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fee44d61-2476-40ae-89eb-f51a7428789d.png" group-title="yasin",A2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
+#EXTINF:-1 tvg-id="MaviKaradeniz.tr" tvg-logo="https://cdn.technettv.com/channel/20532/logo_256_1699960058.png" group-title="yasin",Mavi Karadeniz TV
+https://ataktvm3u.atakan-1983.workers.dev/makikaradeniz
+#EXTINF:-1 tvg-id="OlayTurk.tr" tvg-logo="https://cdn.technettv.com/channel/15219/logo_256_1699951464.png" group-title="yasin",OlayTurk
+https://ataktvm3u.atakan-1983.workers.dev/olayturk
+#EXTINF:-1 tvg-id="Kanal15.tr" tvg-logo="https://cdn.technettv.com/channel/20434/logo_256_1699958409.png" group-title="yasin",Kanal 15
+https://ataktvm3u.atakan-1983.workers.dev/kanal15
+#EXTINF:-1 tvg-id="Kanal19.tr" tvg-logo="https://cdn.technettv.com/channel/14316/logo_256_1707397568.png" group-title="yasin",Kanal 19
+https://ataktvm3u.atakan-1983.workers.dev/kanal19
+#EXTINF:-1 tvg-id="ilketv.tr" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" group-title="yasin",İlke TV
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-1 tvg-id="TRT AVAZ.tr" tvg-logo="https://cdn.technettv.com/channel/29499/logo_256_1733831989.jpg" group-title="yasin",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinematv_logo_A0CC7C58-E100-4C18-8B8D-BF961C4F785E.png" group-title="yasin",Sinema Tv
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16177199419730b495b23d
+#EXTINF:-1 tvg-id="SİNEMA TV 1001 HD.tr" tvg-name="Sinema1001" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1001-tr.png" group-title="yasin",Sinema1001
+https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
+#EXTINF:-1 tvg-id="Sinema Tv 1002.tr" tvg-name="Sinemaaksiyon2" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1002_logo_FEC606FA-0E12-4B71-AE3A-E9879A6AB678.png" group-title="yasin",Sinema 1002
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F129312789771362713c30c
+#EXTINF:-1 tvg-id="SİNEMA AİLE HD.tr" tvg-name="Sinemaaile" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png" group-title="yasin",Sinema Aile 2
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F424550844375a964b5b3e5
+#EXTINF:-1 tvg-name="BEIN BOX OFFICE 1 .s" tvg-logo="https://www.digiturkburada.com.tr/kanal3/bein-box-office-1-hd.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",BEIN BOX OFFICE 1
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1320363850bcb8f1b5542a
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-2-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",BEIN BOX OFFICE 2
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F391012970274e1f1b46029
+#EXTINF:-1 tvg-name="BEIN BOX OFFICE 3 " tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-box-office-3-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",BEIN BOX OFFICE 3
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8799816103c5f180837cf
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",Bein Movies Star
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F19637487849304979bfdcb
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/bein-movies-premiere-hd.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",Bein Movies Primere 1
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F94298722454d1a7fefabb
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/bein-movies-premiere-2-hd.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",Bein Movies Primere 2
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2120218356a82436bd0e59
+#EXTINF:-1 group-title="yasin",GlobalBox Vizyon
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29601128085573d4f48ee8
+#EXTINF:-1 group-title="yasin",GlobalBox Yerli
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F23222622101ba7812517d7
+#EXTINF:-1 group-title="yasin",GlobalBox Korku
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F562681030e6f16337d442
+#EXTINF:-1 group-title="yasin",Fx Cinema Comedy
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F4140720869cce516830b81
+#EXTINF:-1 tvg-logo="https://gbzottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/52/0932479388255eb78424_op_0_XL.webp" group-title="yasin",Fx Cinema Bilimkurgu
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2480231926f2f22c708b52
+#EXTINF:-1 tvg-logo="https://gbzottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/52/0932479388255eb78424_op_0_XL.webp" group-title="yasin",Fx Cinema Action
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F140294889322f1c6411b3
+#EXTINF:-1 tvg-logo="https://gbzottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/52/0932479388255eb78424_op_0_XL.webp" group-title="yasin",Fx Cinema Netflix
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32169858008c38299c49bf
+#EXTINF:-1 tvg-logo="https://gbzottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/52/0932479388255eb78424_op_0_XL.webp" group-title="yasin",Fx Cinema Yerli
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F239201347a28a02eb2603
+#EXTINF:-1 tvg-logo="https://gbzottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/52/0932479388255eb78424_op_0_XL.webp" group-title="yasin",Fx Cinema Macera
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F29580754430ca9027bad74
+#EXTINF:-1 tvg-logo="https://gbzottvsc15.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/52/0932479388255eb78424_op_0_XL.webp" group-title="yasin",Fx Cinema Korku
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F277891079147ee107a816f
+#EXTINF:-1 tvg-id="Bein Sport 1" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="yasin",Bein Sport 1
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F267105889a25a483e5e80
+#EXTINF:-1 tvg-id="beinsports1" tvg-name="beIN Sports 1" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="yasin",Bein Sport 1a
+https://betconnectstreamserver1001.site/601/mono.m3u8|User-Agent=referrer=http://53b7bc644664d6837298a126648c512.betconnect.website
+#EXTINF:-1 tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport2_250x150_2022.png" group-title="yasin",BeinSport 2
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3694662475a36c53181838
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-4-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",BeinSport 4
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1872232768c7c65ceb9862
+#EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",BeinSport 5
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F400031560175e3479a3f11
+#EXTINF:-1 tvg-logo="https://gbzottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/54/1002317544415eb9542c_op_0_XL.webp" group-title="yasin",Sport  Tv 1
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F21232735984a3f0b463d66
+#EXTINF:-1 tvg-logo="https://gbzottvsc06.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/45/1003073844435eb9542c_op_0_XL.webp" group-title="yasin",Sport Tv 2
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F9369082742fdb8ca83c62
+#EXTINF:-1 tvg-id="A SPOR HD.tr" tvg-logo="https://cdn.technettv.com/channel/33860/logo_256.png" group-title="yasin",A Spor
+https://ataktvm3u.atakan-1983.workers.dev/aspor
+#EXTINF:-1 group-title="yasin",Exxen Sport 1
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F10914039127b6d2cb4f9b1
+#EXTINF:-1 tvg-id="HT SPOR.tr" tvg-logo="https://cdn.technettv.com/channel/33545/logo_256.jpg" group-title="yasin",HT Sports
+https://ataktvm3u.atakan-1983.workers.dev/htsports
+#EXTINF:-1 tvg-id="tabii spor.tr" tvg-logo="https://image.milimaj.com/i/milliyet/75/0x0/66ebe052677058f33337d70b.jpg" group-title="yasin",Tabii Spor1
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F38306913165380d4cf64db
+#EXTINF:-1 tvg-id="tabii spor.tr" tvg-logo="https://image.milimaj.com/i/milliyet/75/0x0/66ebe052677058f33337d70b.jpg" group-title="yasin",Tabii Spor2
+https://aileme-ozel-listem.umitm0d.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F24901653728e4a187da4c4
+#EXTINF:-1 tvg-id="tabii spor.tr" tvg-logo="https://image.milimaj.com/i/milliyet/75/0x0/66ebe052677058f33337d70b.jpg" group-title="yasin",Tabii Spor3
+http://live.tabitv.workers.dev/?ID=tabii%20Spor%203
+#EXTINF:-1 tvg-id="TRT SPOR HD.tr" tvg-logo="https://cdn.technettv.com/channel/20770/logo_256_1699963394.png" group-title="yasin",TRT Spor
+https://ataktvm3u.atakan-1983.workers.dev/trtspor
+#EXTINF:-1 tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/trt-spor-yildiz-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="yasin",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TÜRKÇE SLOW.tr" tvg-logo="https://cdn.technettv.com/channel/33818/logo_256.png" group-title="yasin",Power Türk Slow
+https://ataktvm3u.atakan-1983.workers.dev/powerturkslow
+#EXTINF:-1 tvg-id="AKUSTİK.tr" tvg-logo="https://cdn.technettv.com/channel/33811/logo_256.png" group-title="yasin",Power Akustik
+https://ataktvm3u.atakan-1983.workers.dev/powerakustik
+#EXTINF:-1 tvg-id="TRT MÜZİK.tr" tvg-logo="https://cdn.technettv.com/channel/20630/logo_256_1699961878.png" group-title="yasin",TRT Müzik
+https://ataktvm3u.atakan-1983.workers.dev/trtmuzik
+#EXTINF:-1 tvg-logo="https://tbmm.gov.tr/images/kurumsal_kimlik/yaldizli_logo.png" group-title="yasin",TBMM
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
