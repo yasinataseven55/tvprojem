@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sinemaaksiyon" tvg-name="Sinema Aksiyon" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png" group-title="TÜRKSAT",Sinema Aksiyon
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
+
 #EXTINF:-1 tvg-logo="https://gbzottvsc17.tvplus.com.tr:33207/CPS/images/universal/film/logo/202510/20251030/58/0915123165535eb88428_op_0_XL.webp" group-title="TÜRKSAT",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="TRT 2 HD.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" group-title="TÜRKSAT",TRT 2
@@ -135,6 +134,8 @@ https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
 https://umitlenelim.umitm0d.workers.dev/play/umitmod9151cc23
 #EXTINF:-1 tvg-id="SİNEMA AİLE HD.tr" tvg-name="Sinemaaile" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png" group-title="TÜRKSAT",Sinema Aile 2
 https://umitlenelim.umitm0d.workers.dev/play/umitmod64b5b3e5
+#EXTINF:-1 tvg-id="sinemaaksiyon" tvg-name="Sinema Aksiyon" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png" group-title="TÜRKSAT",Sinema Aksiyon
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="TÜRKSAT",Bein MoviesTürk
 https://umitlenelim.umitm0d.workers.dev/play/umitmod15a21ca8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/bein-movies-premiere-hd.png?rkt=DfS6Tgv6Hjr93k3" group-title="TÜRKSAT",Bein Movies Primere 1
