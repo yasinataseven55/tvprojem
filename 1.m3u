@@ -6,7 +6,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" group-title="TÜRKSAT",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NOW.tr" tvg-logo="https://cdn.technettv.com/channel/33783/logo_256.png" group-title="TÜRKSAT",Now
-http://216.66.42.180:7777/Now_HD.m3u8?user=sgls644201&session=a2ba322b74d86f05c5585da8e623e07b8d071f4bc48a62ce8da08295351374486699e8072d607f56&group_id=644201&ios=0&|COMPONENT=HLS
+http://tv.smartglwiz.workers.dev/?ID=Now_HD
 #EXTINF:-1 tvg-id="ATV HD.tr" tvg-logo="https://cdn.technettv.com/channel/33825/logo_256.png" group-title="TÜRKSAT",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="SHOW TV HD.tr" tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" group-title="TÜRKSAT",Show TV
@@ -26,9 +26,9 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="TV8,5 HD.tr" tvg-logo="https://cdn.technettv.com/channel/33958/logo_256.png" group-title="TÜRKSAT",TV8,5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-logo="https://cdn.technettv.com/channel/22961/logo_256_1707397512.png" group-title="TÜRKSAT",CNN Turk
-https://umitlenelim.umitm0d.workers.dev/play/umitmod3743f9d7
+https://ataktvm3u.braveheart1983.workers.dev/cnnt
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A HABER" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="TÜRKSAT",A Haber
-https://trkvz.daioncdn.net/ahaber/ahaber_1080p.m3u8?e=1778214292&st=3wRCSjsrHNLLayN7tTtnSg&sid=8e6a39ru4mmf&app=9aedd495-cc54-4ad3-a01d-9573163f078a&ce=2
+https://umitlenelim.umitm0d.workers.dev/play/umitmod89fb6b5c
 #EXTINF:-1 tvg-id="HABERTÜRK HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/03/Haberturk.com_logo.jpg" group-title="TÜRKSAT",Haber Turk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 tvg-id="TGRT HABER HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="TÜRKSAT",TGRT Haber
@@ -44,7 +44,7 @@ https://streams.uzunmuhalefet.com/stream/d95e9a1b-3955-4643-8327-413da9a1ce60.m3
 #EXTINF:-1 tvg-id="ülketv.tr" tvg-name="ÜLKE TV HD" tvg-logo="https://d3ckc0u56niq67.cloudfront.net/conf/images/ulke_tv_vsd.png" group-title="TÜRKSAT",Ülke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 #EXTINF:-1 tvg-id="Akittv.tr tvg-name=" tvg-name=" tvg-name=" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png" group-title="TÜRKSAT",Akit TV
-http://216.66.42.181:7777/AKiT_HD.m3u8?user=sgls644201&session=ff23d6794c21e3756f1fef7b1839ca59768de4fb9112f4fa2e20a3a07875073d56a97d84583c350e&group_id=644201&ios=0&|COMPONENT=HLS
+http://tv.smartglwiz.workers.dev/?ID=AKiT_HD
 #EXTINF:-1 tvg-id="24.tr" tvg-name="24 TV" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="TÜRKSAT",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
 #EXTINF:-1 tvg-id="Flash Haber.tr" tvg-name="Flash Haber" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/kanal-gorselleri/turkiye/flash-tv-tr.png" group-title="TÜRKSAT",Flash Haber
@@ -68,9 +68,9 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TGRT.Belgesel.tr" tvg-name="TGRT BELGESEL" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" group-title="TÜRKSAT",TGRT Belgesel
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Tgrt_Belgesel.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="TÜRKSAT",TLC
-https://umitlenelim.umitm0d.workers.dev/play/umitmod433d3442
+https://streams.uzunmuhalefet.com/stream/7c98bf26-69a3-4f45-a330-d7c27459b375.m3u8
 #EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" group-title="TÜRKSAT",DMAX
-https://umitlenelim.umitm0d.workers.dev/play/umitmod20c43f8b
+https://streams.uzunmuhalefet.com/stream/ca37ad2f-27a2-4227-9e04-fdd4b2279f3e.m3u8
 #EXTINF:-1 tvg-id="Da Vinci.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/da-vinci-tv-logo_8CEE3775-9459-4A25-9565-595C7ACA46B2.png" group-title="TÜRKSAT",Da Vinci
 https://umitlenelim.umitm0d.workers.dev/play/umitmodf808f3af
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/discovery-channel-hd.png?rkt=DfS6Tgv6Hjr93k3" group-title="TÜRKSAT",Discovery Channel
@@ -84,7 +84,7 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/cgtn-hd.png?rkt=DfS6Tgv6Hjr93k3" group-title="TÜRKSAT",CGTN Belgesel
 https://streams.uzunmuhalefet.com/stream/2bd10121-51a7-4de7-9aaa-8b0db19bdd3b.m3u8
 #EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" tvg-logo="https://tvlogolar.xyz/europa/turkey/bbcearth.png" group-title="TÜRKSAT",BBC Earth
-https://umitlenelim.umitm0d.workers.dev/play/umitmod9a0e0faf
+https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
 #EXTINF:-1 tvg-id="TARIH TV.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/tarihtv.png" group-title="TÜRKSAT",Tarih TV
 https://umitlenelim.umitm0d.workers.dev/play/umitmoda882aa10
 #EXTINF:-1 tvg-id="LOVE NATURE HD.tr" tvg-name="lovenature" tvg-logo="https://yandex-images.clstorage.net/5pbQp6130/9d578cbRd42/FSG66xdnfCWb5IA0JY6aoPBf5JH4LWTQt5azZYBRY-T9Mm9r-4UQoSb5-VT3YxBFsgroAkcwsH2jB8FknUNKJwFlqfqH4KkxSqJVNiVP2ienDyDW7qxzlicBpeDXkrRxKP0gd3JYCj-qMqRIqeQFBvJer4QS8mVvcxdY_9iWmneZKbThF7B-Zpa2APriBRbs5xau0G-sPZq_QGyggpliJHn4rTawVgT843OhQakrSYn2lWqRGXnr-fuYU_QMVtaz1eKzYlg2vGUaP4S4Y0Ud6GnWKFpjb_ZXN4Ei7AxVIKl5siG0sZLPva45JkmiLgbEud8iU1Q3rHBwF5t2Ct9aOl2qO-fX_bbi2TaKsiKMnq3n2u9VKaaxWjODp-DC2KkkvPhtuXFVjP6j8CyOquiFzzcUapPWfCsw9NtesgLeVL8bbr7ulrb7LxY3jvrrj9NvIV1mGCnsMpM3CS1tix3qoTUwK3axWQm3rTmsw-_mTEFwFqySE3gjf_3aHjVJ15b7Xan-5BG-uWcat8h05AXR7W4ebFjoKr0ac0Rj6czSKWN1uKU8MpFAeu0zr44naEYFvl1kV9lyZzD9llV7wlVaNZtv_qPStHat0z3Dd6KL2i1qlO5WriOxl3xNZOHC0aurfHKqMniSjn9kfW0LL2kPS_ifJ5Ze_eJ3dJsSvQobF7MXrrwi1T61rRZ3Q_ZlDFag6l-jXSCquhk2wmRozNSq57Z_LHw-kgz34rtrCGsjTk_-lW2UnvrruTxS3LmAUtMyk-0yJJ-_eufes01wqg2SY-baKNXnLLdYOoLios0bJm95Nuv0c1pP_Sy4pUavK0HPeRco2tK6b3q_1lTyBRge_1TlMayS_TZgEv6GtOWOWOoulucYKi4413_MrWCB0Cbovb-suzZeBPQn8a4O5uqOBDoVoRPQui_3fx5WvUbfF_-d7DwmUL77rVz8SrCtQlukYdep0aDluV-8RaMtA8" group-title="TÜRKSAT",Love Nature
@@ -130,9 +130,9 @@ https://streams.uzunmuhalefet.com/stream/2f818fdb-97ae-41c5-8bbf-ca099b687d9a.m3
 #EXTINF:-1 tvg-id="sinema1001" tvg-name="Sinema1001" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1001-tr.png" group-title="TÜRKSAT",Sinema1001
 https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
 #EXTINF:-1 tvg-id="Sinema Tv 1002.tr" tvg-name="Sinemaaksiyon2" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1002_logo_FEC606FA-0E12-4B71-AE3A-E9879A6AB678.png" group-title="TÜRKSAT",Sinema 1002
-https://umitlenelim.umitm0d.workers.dev/play/umitmod9151cc23
-#EXTINF:-1 tvg-id="SİNEMA AİLE HD.tr" tvg-name="Sinemaaile" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png" group-title="TÜRKSAT",Sinema Aile 2
-https://umitlenelim.umitm0d.workers.dev/play/umitmod64b5b3e5
+https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
+#EXTINF:-1 tvg-id="SİNEMA AİLE HD.tr" tvg-name="Sinemaaile" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png" group-title="TÜRKSAT",Sinema Aile 1
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8
 #EXTINF:-1 tvg-id="sinemaaksiyon" tvg-name="Sinema Aksiyon" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png" group-title="TÜRKSAT",Sinema Aksiyon
 https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-stars-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3" group-title="TÜRKSAT",Bein MoviesTürk
