@@ -71,9 +71,9 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TGRT.Belgesel.tr" tvg-name="TGRT BELGESEL" tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" group-title="TÜRKSAT",TGRT Belgesel
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Tgrt_Belgesel.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="TÜRKSAT",TLC
-https://streams.uzunmuhalefet.com/stream/7c98bf26-69a3-4f45-a330-d7c27459b375.m3u8
+http://79.76.41.101/Tivizon.php?ID=tlc
 #EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" group-title="TÜRKSAT",DMAX
-https://streams.uzunmuhalefet.com/stream/ca37ad2f-27a2-4227-9e04-fdd4b2279f3e.m3u8
+http://140.238.247.222/vavo.php?ID=31572104363a7237e609dc
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/discovery-channel-hd.png?rkt=DfS6Tgv6Hjr93k3" group-title="TÜRKSAT",Discovery Channel
 https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png" group-title="TÜRKSAT",Nat Geo
