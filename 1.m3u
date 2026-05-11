@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Tgr
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="TÜRKSAT",TLC
 http://79.76.41.101/Tivizon.php?ID=tlc
 #EXTINF:-1 tvg-id="DMAX HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" group-title="TÜRKSAT",DMAX
-http://140.238.247.222/vavo.php?ID=31572104363a7237e609dc
+http://79.76.41.101/Heryerde.php?ID=3406
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/discovery-channel-hd.png?rkt=DfS6Tgv6Hjr93k3" group-title="TÜRKSAT",Discovery Channel
 https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/38a2e51a-9f7f-4915-aa88-f78190f59411.png" group-title="TÜRKSAT",Nat Geo
