@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tabi tv" tvg-name="tabi tv" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TÜRKSAT",Tabi Tv
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
 #EXTINF:-1 tvg-id="TRT 2 HD.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" group-title="TÜRKSAT",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-logo="https://cdn.technettv.com/channel/20623/logo_256_1699961936.png" group-title="TÜRKSAT",TRT Haber
