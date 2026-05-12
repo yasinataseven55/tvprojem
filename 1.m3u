@@ -83,18 +83,16 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 https://streams.uzunmuhalefet.com/stream/2bd10121-51a7-4de7-9aaa-8b0db19bdd3b.m3u8
 #EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" tvg-logo="https://tvlogolar.xyz/europa/turkey/bbcearth.png" group-title="TÜRKSAT",BBC Earth
 https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
-#EXTINF:-1 tvg-id="TARIH TV.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/tarihtv.png" group-title="TÜRKSAT",Tarih TV
-https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
 #EXTINF:-1 tvg-id="LOVE NATURE HD.tr" tvg-name="lovenature" tvg-logo="https://yandex-images.clstorage.net/5pbQp6130/9d578cbRd42/FSG66xdnfCWb5IA0JY6aoPBf5JH4LWTQt5azZYBRY-T9Mm9r-4UQoSb5-VT3YxBFsgroAkcwsH2jB8FknUNKJwFlqfqH4KkxSqJVNiVP2ienDyDW7qxzlicBpeDXkrRxKP0gd3JYCj-qMqRIqeQFBvJer4QS8mVvcxdY_9iWmneZKbThF7B-Zpa2APriBRbs5xau0G-sPZq_QGyggpliJHn4rTawVgT843OhQakrSYn2lWqRGXnr-fuYU_QMVtaz1eKzYlg2vGUaP4S4Y0Ud6GnWKFpjb_ZXN4Ei7AxVIKl5siG0sZLPva45JkmiLgbEud8iU1Q3rHBwF5t2Ct9aOl2qO-fX_bbi2TaKsiKMnq3n2u9VKaaxWjODp-DC2KkkvPhtuXFVjP6j8CyOquiFzzcUapPWfCsw9NtesgLeVL8bbr7ulrb7LxY3jvrrj9NvIV1mGCnsMpM3CS1tix3qoTUwK3axWQm3rTmsw-_mTEFwFqySE3gjf_3aHjVJ15b7Xan-5BG-uWcat8h05AXR7W4ebFjoKr0ac0Rj6czSKWN1uKU8MpFAeu0zr44naEYFvl1kV9lyZzD9llV7wlVaNZtv_qPStHat0z3Dd6KL2i1qlO5WriOxl3xNZOHC0aurfHKqMniSjn9kfW0LL2kPS_ifJ5Ze_eJ3dJsSvQobF7MXrrwi1T61rRZ3Q_ZlDFag6l-jXSCquhk2wmRozNSq57Z_LHw-kgz34rtrCGsjTk_-lW2UnvrruTxS3LmAUtMyk-0yJJ-_eufes01wqg2SY-baKNXnLLdYOoLios0bJm95Nuv0c1pP_Sy4pUavK0HPeRco2tK6b3q_1lTyBRge_1TlMayS_TZgEv6GtOWOWOoulucYKi4413_MrWCB0Cbovb-suzZeBPQn8a4O5uqOBDoVoRPQui_3fx5WvUbfF_-d7DwmUL77rVz8SrCtQlukYdep0aDluV-8RaMtA8" group-title="TÜRKSAT",Love Nature
 https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
 #EXTINF:-1 tvg-id="VIASAT HISTORY HD.tr" tvg-name="ViasatHistory" tvg-logo="https://avatars.mds.yandex.net/i?id=b4edf6ed0cf240e5ff111efc7bd5e4f94ae97e4a-5243845-images-thumbs&n=13" group-title="TÜRKSAT",ViasatHistory
 https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/h/y5/246246/logo.png" ,Tarih Tv
+http://79.76.41.101/Go.php?ID=246246
 #EXTINF:-1 tvg-id="KoyTV.tr" tvg-logo="https://assets-iptv2022.cdnvideo.ru/uploads/channel/14624/thumb_Ko%CC%88y_Tv.jpeg" group-title="TÜRKSAT",Köy TV
 https://ataktvm3u.atakan-1983.workers.dev/koytv
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="https://raw.githubusercontent.com/yasinyonet/iptv-list/refs/heads/main/iptv-logo/Ciftci_TV.png" group-title="TÜRKSAT",Çiftçi TV
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/89/76/928976ba-edda-602d-d6a4-fac8ff402426/AppIcon-0-0-1x_U007epad-0-0-85-220.png/200x200ia-75.webp" group-title="TÜRKSAT",Agro Tv
-https://stream.castr.com/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://www.digiturkburada.com.tr/kanal3/yaban-tv.png?rkt=DfS6Tgv6Hjr93k3" group-title="TÜRKSAT",Yaban TV
 https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w616077203.m3u8?hash=7549e35cdf8daf3655f1275a8841880f
 #EXTINF:-1 tvg-id="A2 HD.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/fee44d61-2476-40ae-89eb-f51a7428789d.png" group-title="TÜRKSAT",A2
@@ -135,8 +133,6 @@ http://79.76.41.101/Go.php?ID=245958
 http://79.76.41.101/Go.php?ID=1029238
 #EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/i/sB/245982/logo.png" ,Fashion TV
 http://79.76.41.101/Go.php?ID=245982
-#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/h/y5/246246/logo.png" ,Tarih Tv
-http://79.76.41.101/Go.php?ID=246246
 #EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/E/oA/246186/logo.png" ,FX
 http://79.76.41.101/Go.php?ID=246186
 #EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/A/Vy/246147/logo.png" ,MovieSmart Türk
