@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://gbzottvsc17.tvplus.com.tr:33207/CPS/images/universal/film/logo/202510/20251030/58/0915123165535eb88428_op_0_XL.webp" group-title="TÜRKSAT",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="TRT 2 HD.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" group-title="TÜRKSAT",TRT 2
@@ -124,20 +123,45 @@ https://streams.uzunmuhalefet.com/stream/e700bdbb-4c5b-4de3-8e48-b2a4ec78efbd.m3
 https://streams.uzunmuhalefet.com/stream/2a5c0961-edbd-4e43-a973-289983b8ec97.m3u8
 #EXTINF:-1 tvg-name="Lalegül TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/ecd7f394-fab5-4a93-88cc-b59f8abfa838.png" group-title="TÜRKSAT",Lalegül TV
 https://streams.uzunmuhalefet.com/stream/2f818fdb-97ae-41c5-8bbf-ca099b687d9a.m3u8
-#EXTINF:-1 tvg-id="sinematv" tvg-name="Sinema TV" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png" group-title="TÜRKSAT",Sinema Tv
-https://proud-river-e20b.pantonum1.workers.dev/sinema.m3u8
-#EXTINF:-1 tvg-id="SİNEMA AİLE HD.tr" tvg-name="Sinemaaile" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png" group-title="TÜRKSAT",Sinema Aile
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8
-#EXTINF:-1 tvg-id="sinemaaksiyon" tvg-name="Sinema Aksiyon" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png" group-title="TÜRKSAT",Sinema Aksiyon
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
-#EXTINF:-1 tvg-id="sinemaaksiyon2" tvg-name="Sinema Aksiyon 2" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon2-tr.png" group-title="TÜRKSAT",Sinema Aksiyon 2
-https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon2.m3u8
-#EXTINF:-1 tvg-id="sinemakomedi" tvg-name="Sinema Komedi" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png" group-title="TÜRKSAT",Sinema Komedi
-https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8
-#EXTINF:-1 tvg-id="sinema1001" tvg-name="Sinema1001" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1001-tr.png" group-title="TÜRKSAT",Sinema1001
-https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
-#EXTINF:-1 tvg-id="Sinema Tv 1002.tr" tvg-name="Sinemaaksiyon2" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1002_logo_FEC606FA-0E12-4B71-AE3A-E9879A6AB678.png" group-title="TÜRKSAT",Sinema 1002
-https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/ae3d90a0-37ee-4e48-a6bc-1375e5f1329a.png" ,Sinema Yerli
+http://79.76.41.101/Heryerde.php?ID=3304
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/m/at/246006/logo.png" ,Sports TV
+http://79.76.41.101/Go.php?ID=246006
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/e/KG/245979/logo.png" ,Eurosport 2
+http://79.76.41.101/Go.php?ID=245979
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/H/3o/245958/logo.png" ,Eurosport 1
+http://79.76.41.101/Go.php?ID=245958
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/Q/9Y/1029238/logo.png" ,Sıfır TV
+http://79.76.41.101/Go.php?ID=1029238
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/i/sB/245982/logo.png" ,Fashion TV
+http://79.76.41.101/Go.php?ID=245982
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/h/y5/246246/logo.png" ,Tarih Tv
+http://79.76.41.101/Go.php?ID=246246
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/E/oA/246186/logo.png" ,FX
+http://79.76.41.101/Go.php?ID=246186
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/A/Vy/246147/logo.png" ,MovieSmart Türk
+http://79.76.41.101/Go.php?ID=246147
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/a/4x/245985/logo.png" ,FilmScreen
+http://79.76.41.101/Go.php?ID=245985
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/T/Wj/246219/logo.png" ,Sinema TV 1002
+http://79.76.41.101/Go.php?ID=246219
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/O/LB/246216/logo.png" ,Sinema TV 1001
+http://79.76.41.101/Go.php?ID=246216
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/r/GJ/246213/logo.png" ,Sinema TV Comedy 2
+http://79.76.41.101/Go.php?ID=246213
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/o/1l/246210/logo.png" ,Sinema TV Comedy
+http://79.76.41.101/Go.php?ID=246210
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/t/Ln/246204/logo.png" ,Sinema TV Aile
+http://79.76.41.101/Go.php?ID=246204
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/k/oS/246198/logo.png" ,Sinema TV Aksiyon 2
+http://79.76.41.101/Go.php?ID=246198
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/x/sq/246201/logo.png" ,Sinema TV Aksiyon
+http://79.76.41.101/Go.php?ID=246201
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/P/q0/246225/logo.png" ,Sinema TV 2
+http://79.76.41.101/Go.php?ID=246225
+#EXTINF:-1 group-title="" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/k/yt/246195/logo.png" ,Sinema TV
+http://79.76.41.101/Go.php?ID=246195
+
 #EXTINF:-1 tvg-id="FX" tvg-name="fx" tvg-logo="https://izmaottvsc18.tvplus.com.tr:33207/CPS/images/universal/film/logo/202506/20250623/52/0932479388255eb78424_op_0_XL.webp" group-title="TÜRKSAT",Fx
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="tabi tv" tvg-name="tabi tv" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TÜRKSAT",Tabi Tv
